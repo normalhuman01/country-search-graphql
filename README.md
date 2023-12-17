@@ -1,6 +1,6 @@
 # Country Search React App
 
-This is a simple web application for searching countries based on GraphQL. It was created as a non-profit project inspired by [Kimche's Challenge](https://github.com/normalhuman01).
+This is a simple web application for searching countries based on GraphQL
 
 ## Description
 
